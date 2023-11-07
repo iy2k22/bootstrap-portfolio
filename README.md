@@ -8,5 +8,5 @@ Open `index.html` in a web browser or with the Live Server extension for VS Code
 
 ## Credits
 * Mario belongs to Nintendo.
-* Placeholder image is obtained from [placeholder.co](https://placeholder.co).
+* Placeholder image is obtained from [placehold.co](https://placehold.co).
 * I believe the cursed image of Luigi is from a Nintendo magazine.
