@@ -1,0 +1,45 @@
+:root {
+    --bg: #474747;
+    --fg: white;
+    --header-bg: #363637;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+}
+
+#contact button a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    margin: 100px 0;
+    background-color: var(--header-bg);
+    padding: 100px;
+    box-shadow: black 10px 10px;
+}
+
+#navbar {
+    background-color: var(--header-bg);
+}
+
+div.card {
+    background-color: var(--bg);
+    color: var(--fg);
+}
+
+#hero {
+    margin-top: 0 !important;
+    box-shadow: black 0 0;
+    background-image: url("https://placehold.co/600x400");
+}
+
+#skills ul {
+    list-style-type: none;
+}
+
+button:hover {
+    box-shadow: black 5px 5px;
+}
